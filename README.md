@@ -12,7 +12,9 @@ In the subfolders different aspects are being evaluated and briefly introduced b
 
 Each individual sub program is setup as jupyter notebook and can be executed individually. 
 
-##
+## Side notes
+
+For the sake of readbility and traceability the amount of code quality measures intentionally have been kept low
 
 All content has been worked out during a Udacity Nano Degree training
 
