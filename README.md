@@ -1,5 +1,5 @@
 # GenAI
-This repo covers lightweight experiments around generative artifical intelligence in order to get a better feeling of its capabilities and limitations
+This repo covers basic experiments around generative artifical intelligence in order to get a better feeling of its capabilities and limitations
 
 In the subfolders different aspects are being evaluated and briefly introduced below
 
@@ -10,4 +10,10 @@ In the subfolders different aspects are being evaluated and briefly introduced b
 | image manipulation | take a casual picture and manipulate an image-selection  only by text prompts |
 | holisitic GenAI product | Compose a holisitic GenAI product by the techniques by the experiments above. For a real estate agent, virtual offers are artificially created, handled in a vector database and with the help of an LLM eventually some highly customer-specific advertisments are generated.
 
-Each individual sub program is setup as jupyter notebook and can be executed on their own.
+Each individual sub program is setup as jupyter notebook and can be executed individually. 
+
+##
+
+All content has been worked out during a Udacity Nano Degree training
+
+![](cert.png)
